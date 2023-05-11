@@ -10,6 +10,7 @@ c++,ubuntu
 
 
 sudo apt-get update
+
 sudo apt-get install build-essential git libasound2-dev libx11-dev libxrandr-dev libxi-dev libgl1-mesa-dev libglu1-mesa-dev
 
 
