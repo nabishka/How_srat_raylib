@@ -27,6 +27,8 @@ cd raylib/src
 
 
 make PLATFORM=PLATFORM_DESKTOP
+
+
 sudo make install
 
 
