@@ -18,6 +18,8 @@ sudo apt-get install build-essential git libasound2-dev libx11-dev libxrandr-dev
 
 
 git clone https://github.com/raysan5/raylib.git
+
+
 cd raylib/src
 
 
