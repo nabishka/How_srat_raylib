@@ -1,4 +1,4 @@
-# How_srat_raylib
+# How_srat_raylib_ubuntu
 c++,ubuntu
 Как скачать рэйлиб на убунту,используя vscode
 
